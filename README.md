@@ -27,4 +27,6 @@ This project was a great opputunity to learn and get hands on experience with Re
 
 <br>
 <br>
-<img width="1440" alt="Screenshot 2024-12-07 at 12 15 09 PM" src="https://github.com/user-attachments/assets/f733347c-9f49-4d10-b351-84e6baa14c3e">
+<img width="1440" alt="Screenshot 2024-12-07 at 12 20 36 PM" src="https://github.com/user-attachments/assets/022400c6-d7b7-420f-b26c-04b89a4e23d7">
+
+
