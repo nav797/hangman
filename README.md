@@ -4,7 +4,7 @@ Welcome to the Hangman Game Project!
 
 This project is a web-based implementation of the classic Hangman game, built using React and TypeScript. The game challenges players to guess a hidden word, one letter at a time, with a limited number of incorrect guesses allowed before they lose.
 
-This project was a great opputunity to learn and get hands on experience with React and Typescript devleoping a better understand of the languages!
+This project was a great opputunity to learn and get hands on experience with React and Typescript devleoping a better understand of these technologies!
 <br>
 <h3>Features</h3>
 <ul>
